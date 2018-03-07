@@ -735,6 +735,10 @@ blockquote {
 #features7-3 .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#slider3-9 .mbr-section-title,
+#slider3-9 .mbr-section-text {
+  color: #fff;
+}
 #footer2-7 .mbr-section-text {
   color: #fff;
 }
